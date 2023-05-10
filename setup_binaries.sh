@@ -35,7 +35,7 @@ cd lighthouse
 git checkout $LH_BRANCH
 git pull origin $LH_BRANCH
 
-make && make install-lcli
+make
 
 cd ..
 
